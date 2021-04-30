@@ -1,8 +1,10 @@
 # samsung-wireless-charger-stand
-A stand for your phone with space to mount a Samsung wireless charger
+A stand for your phone with space to mount a Samsung wireless charger.
+Size compatible with "Samsung Wireless Charger Pad EP-P1300T".
 
 The stand is split into two pieces to make printing easier.
 
+## Screenshots / Photos
 The base holds the phone and has a trench to fix the charger's usb cable:
 
 ![Foot](images/base.png?raw=true)
