@@ -5,12 +5,12 @@ The stand is split into two pieces to make printing easier.
 
 The base holds the phone and has a trench to fix the charger's usb cable:
 
-![Foot](images/base.png)
+![Foot](images/base.png?raw=true)
 
 And the back itself has space to mount the charger:
 
-![Stand](images/back.png)
+![Stand](images/back.png?raw=true)
 
 The printed result after joining the two pieces and mounting the charger and adding a small strip of foam rubber.
 
-![Photo](images/photo.png)
+![Photo](images/photo.png?raw=true)
